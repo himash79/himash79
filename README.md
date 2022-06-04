@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Yomal Sri Bandara</h1>
-<!-- <h3 align="center">Student at MITS, Gwalior🌟.</h3> -->
-<h3 align="center">Sri Lanka🌟.</h3>
+<h3 align="center">Java Fullstack Developer 🌟</h3>
 
 <br>
 
-<!-- <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=himash79&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=himash79&label=Profile%20views&color=0e75b6&style=flat"
     alt="himash79" /> 
-  </p> -->
+  </p>
 
-<!-- <br> -->
+<br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/himash79/himash79/blob/main/profileGif1.gif" alt="himash79" /></p>
 
+<h3> Here's some fun facts about me: </h3>
 
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **yomalhimasha97@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 🔭 I’m currently working on Java Projects.
+- 🌱 I've professional experience since 2019 to present.
+- 👯 I’m currently collaborate on Spring, Angular and React Projects.
+- 💬 Ask me about Programming.
 
 <br>
 
