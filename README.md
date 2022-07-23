@@ -10,7 +10,6 @@
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m currently working on Java Projects.
-- 🌱 I've professional experience since 2019 to present.
 - 👯 I’m currently collaborate on Spring, Angular and React Projects.
 - 💬 Ask me about Programming.
 
