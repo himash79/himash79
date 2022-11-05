@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yomal Sri Bandara</h1>
-<h3 align="center">Fullstack Java Developer 🌟</h3>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=himash79&label=Profile%20views&color=0e75b6&style=flat"
     alt="himash79" /> 
